@@ -45,7 +45,7 @@ public class MyRefrigeratorAdapter extends BaseAdapter {
 
             // Data Set(listViewItemList)에서 position에 위치한 데이터 참조 획득
             ListViewItem listViewItem = listViewItemList.get(position);
-
+//////////////////////////////////////기간 임박할경우 나누기 위해 스위치문 으로 일단 구현
             switch (viewType) {
                 case ITEM_VIEW_TYPE_STRS:
                     convertView = inflater.inflate(R.layout.item_recyclerview,

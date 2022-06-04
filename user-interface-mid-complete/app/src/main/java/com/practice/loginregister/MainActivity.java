@@ -137,8 +137,8 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //버튼 클릭시 냉장고를 부탁해 화면으로 전환하는 동작
-                //Intent intent = new Intent(getApplicationContext(), Refrigerator_Plz.class);
-                //startActivity(intent);
+                Intent intent = new Intent(getApplicationContext(), Refrigerator_Plz.class);
+                startActivity(intent);
             }
         });
 

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudio_workspace/LoginRegister/app/src/main/res/drawable/img4_size.xml" value="0.153" />
+        <entry key="..\:/AndroidStudio_workspace/LoginRegister/app/src/main/res/font/custom_font_family.xml" value="0.3902564102564103" />
+        <entry key="..\:/AndroidStudio_workspace/LoginRegister/app/src/main/res/layout/activity_login.xml" value="0.21422101449275363" />
+        <entry key="..\:/AndroidStudio_workspace/LoginRegister/app/src/main/res/layout/activity_main.xml" value="0.1728055077452668" />
+        <entry key="..\:/AndroidStudio_workspace/LoginRegister/app/src/main/res/layout/activity_register.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio_workspace/LoginRegister/app/src/main/res/layout/bell_btn.xml" value="0.2921195652173913" />
+        <entry key="..\:/AndroidStudio_workspace/LoginRegister/app/src/main/res/layout/fragment1.xml" value="0.2921195652173913" />
+        <entry key="..\:/AndroidStudio_workspace/LoginRegister/app/src/main/res/layout/fragment10.xml" value="0.2921195652173913" />
+        <entry key="..\:/AndroidStudio_workspace/LoginRegister/app/src/main/res/layout/fragment2.xml" value="0.2921195652173913" />
+        <entry key="..\:/AndroidStudio_workspace/LoginRegister/app/src/main/res/layout/fragment3.xml" value="0.2921195652173913" />
+        <entry key="..\:/AndroidStudio_workspace/LoginRegister/app/src/main/res/layout/fragment4.xml" value="0.2921195652173913" />
+        <entry key="..\:/AndroidStudio_workspace/LoginRegister/app/src/main/res/layout/fragment5.xml" value="0.2921195652173913" />
+        <entry key="..\:/AndroidStudio_workspace/LoginRegister/app/src/main/res/layout/fragment6.xml" value="0.2921195652173913" />
+        <entry key="..\:/AndroidStudio_workspace/LoginRegister/app/src/main/res/layout/fragment7.xml" value="0.2921195652173913" />
+        <entry key="..\:/AndroidStudio_workspace/LoginRegister/app/src/main/res/layout/fragment8.xml" value="0.2921195652173913" />
+        <entry key="..\:/AndroidStudio_workspace/LoginRegister/app/src/main/res/layout/fragment9.xml" value="0.2921195652173913" />
+        <entry key="..\:/AndroidStudio_workspace/LoginRegister/app/src/main/res/layout/recipe.xml" value="0.2921195652173913" />
+        <entry key="..\:/AndroidStudio_workspace/LoginRegister/app/src/main/res/layout/user_btn.xml" value="0.2921195652173913" />
+        <entry key="..\:/AndroidStudio_workspace/Naengsiljang_Android/app/src/main/res/drawable/button_background.xml" value="0.2405" />
+        <entry key="..\:/AndroidStudio_workspace/Naengsiljang_Android/app/src/main/res/layout/activity_ingredient_select.xml" value="0.2621359223300971" />
+        <entry key="..\:/AndroidStudio_workspace/Naengsiljang_Android/app/src/main/res/layout/activity_login.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio_workspace/Naengsiljang_Android/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AndroidStudio_workspace/Naengsiljang_Android/app/src/main/res/layout/activity_register.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio_workspace/Naengsiljang_Android/app/src/main/res/layout/recipe.xml" value="0.36614583333333334" />
+        <entry key="..\:/AndroidStudio_workspace/Naengsiljang_Android/app/src/main/res/layout/user_btn.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/kkl00/AndroidStudioProjects/user-interface-mid-complete/app/src/main/res/drawable/button_background.xml" value="0.1285" />
+        <entry key="..\:/Users/kkl00/AndroidStudioProjects/user-interface-mid-complete/app/src/main/res/layout/activity_all_recipe.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/kkl00/AndroidStudioProjects/user-interface-mid-complete/app/src/main/res/layout/activity_ingredient_select.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/kkl00/AndroidStudioProjects/user-interface-mid-complete/app/src/main/res/layout/activity_login.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/kkl00/AndroidStudioProjects/user-interface-mid-complete/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/kkl00/AndroidStudioProjects/user-interface-mid-complete/app/src/main/res/layout/activity_register.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/kkl00/AndroidStudioProjects/user-interface-mid-complete/app/src/main/res/layout/activity_user.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/kkl00/AndroidStudioProjects/user-interface-mid-complete/app/src/main/res/layout/acvtivity_my_refrigerator.xml" value="0.1" />
+        <entry key="..\:/Users/kkl00/AndroidStudioProjects/user-interface-mid-complete/app/src/main/res/layout/fragment1.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/kkl00/AndroidStudioProjects/user-interface-mid-complete/app/src/main/res/layout/fragment10.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/kkl00/AndroidStudioProjects/user-interface-mid-complete/app/src/main/res/layout/item_recyclerview.xml" value="0.264" />
+        <entry key="..\:/Users/kkl00/AndroidStudioProjects/user-interface-mid-complete/app/src/main/res/layout/my_refrigerator_recyclerview.xml" value="0.253125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

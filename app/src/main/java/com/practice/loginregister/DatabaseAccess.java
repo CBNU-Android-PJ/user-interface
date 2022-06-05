@@ -37,7 +37,7 @@ public class DatabaseAccess {
         }
     }
 
-    public ArrayList<String> getmenu(String name) { //재료를 name 매개변수로 받으면 query문을 통해 menu를 출력해주는 함수
+    public ArrayList<String> getmenu(String name) { //재료를 name 매개변수로 받으면 query문을 통해 menu를 반환해주는 함수
         c = db.rawQuery("select menu from recipe_version2 where menu ='" + name + "'" , new String[]{});
         ArrayList<String>search_menu = new ArrayList<>();
         while (c.moveToNext()) {
@@ -47,7 +47,7 @@ public class DatabaseAccess {
         return search_menu;
     }
 
-    public ArrayList<String> viewmenu() { // query문을 통해 전체 menu를 출력해주는 함수
+    public ArrayList<String> viewmenu() { // query문을 통해 전체 menu를 반환해주는  함수
         int i=0;
         c = db.rawQuery("select * from recipe_version2" , new String[]{});
         ArrayList<String>menu = new ArrayList<>();
@@ -55,6 +55,15 @@ public class DatabaseAccess {
             menu.add(c.getString(0));
         }
         return menu;
+    }
+    public ArrayList<String> GetLink(String name) { //메뉴에 해당하는 링크를 반환하는 함수
+        int i=0;
+        c = db.rawQuery("select link from recipe_version2 where menu ='" + name + "'" , new String[]{});
+        ArrayList<String>link = new ArrayList<>();
+        while (c.moveToNext()) {
+            link.add(c.getString(0));
+        }
+        return link;
     }
 
 }

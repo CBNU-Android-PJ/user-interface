@@ -47,7 +47,7 @@ public class DatabaseAccess {
         return search_menu;
     }
 
-    public ArrayList<String> viewmenu() { //재료를 name 매개변수로 받으면 query문을 통해 menu를 출력해주는 함수
+    public ArrayList<String> viewmenu() { // query문을 통해 전체 menu를 출력해주는 함수
         int i=0;
         c = db.rawQuery("select * from recipe_version2" , new String[]{});
         ArrayList<String>menu = new ArrayList<>();

@@ -28,6 +28,18 @@
         <entry key="..\:/AndroidStudio_workspace/Naengsiljang_Android/app/src/main/res/layout/activity_register.xml" value="0.36614583333333334" />
         <entry key="..\:/AndroidStudio_workspace/Naengsiljang_Android/app/src/main/res/layout/recipe.xml" value="0.36614583333333334" />
         <entry key="..\:/AndroidStudio_workspace/Naengsiljang_Android/app/src/main/res/layout/user_btn.xml" value="0.36614583333333334" />
+        <entry key="..\:/naegsilzang-mid/user-interface/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/naegsilzang-mid/user-interface/app/src/main/res/drawable/banner_button_background.xml" value="0.1" />
+        <entry key="..\:/naegsilzang-mid/user-interface/app/src/main/res/drawable/button_background.xml" value="0.1" />
+        <entry key="..\:/naegsilzang-mid/user-interface/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/naegsilzang-mid/user-interface/app/src/main/res/layout/activity_all_recipe.xml" value="0.23378926038500505" />
+        <entry key="..\:/naegsilzang-mid/user-interface/app/src/main/res/layout/activity_ingredient_select.xml" value="0.23378926038500505" />
+        <entry key="..\:/naegsilzang-mid/user-interface/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/naegsilzang-mid/user-interface/app/src/main/res/layout/activity_register.xml" value="0.23378926038500505" />
+        <entry key="..\:/naegsilzang-mid/user-interface/app/src/main/res/layout/activity_user.xml" value="0.23378926038500505" />
+        <entry key="..\:/naegsilzang-mid/user-interface/app/src/main/res/layout/fragment7.xml" value="0.23378926038500505" />
+        <entry key="..\:/naegsilzang-mid/user-interface/app/src/main/res/layout/fragment8.xml" value="0.23378926038500505" />
+        <entry key="..\:/naegsilzang-mid/user-interface/app/src/main/res/layout/row_listview.xml" value="0.23378926038500505" />
       </map>
     </option>
   </component>
